@@ -1,18 +1,12 @@
-### Hi there 👋
+### Qizhi Pei
 
-<!--
-**QizhiPei/QizhiPei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m Qizhi Pei from Gaoling School of Artificial Intelligence, RUC.
+- 🌱 I’m currently doing research about AI4Science, especially for 3D biomolecular modeling and multi-modal learning on biomolecule.
+- 📫 How to reach me:
+  - Website: https://qizhipei.github.io
+  -  Email: pqz1811@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=QizhiPei&count_private=true&show_icons=true&theme=transparent)
 
-[![QizhiPei's github stats](https://github-readme-stats.vercel.app/api?username=QizhiPei)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=QizhiPei&layout=compact&hide=javascript,html,c,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
