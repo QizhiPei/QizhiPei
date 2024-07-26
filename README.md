@@ -5,7 +5,7 @@
 - 🌱 I’m currently doing research about AI4Science, especially for 3D biomolecular modeling and multi-modal learning on biomolecule.
 - 📫 How to reach me:
   - Website: https://qizhipei.github.io
-  -  Email: pqz1811@gmail.com
+  -  Email: qizhipei@ruc.edu.cn
 
 ![](https://github-readme-stats.vercel.app/api?username=QizhiPei&count_private=true&show_icons=true&theme=transparent)
 
