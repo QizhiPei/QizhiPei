@@ -1,7 +1,7 @@
 ### Qizhi Pei
 
 
-- 🔭 I’m Qizhi Pei, a second-year PhD student from Gaoling School of Artificial Intelligence, RUC.
+- 🔭 I’m Qizhi Pei, a third-year PhD student from Gaoling School of Artificial Intelligence, RUC.
 - 🌱 I’m currently doing research about AI4Science, especially for 3D biomolecular modeling and multi-modal learning on biomolecule.
 - 📫 How to reach me:
   - Website: https://qizhipei.github.io
